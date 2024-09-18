@@ -11,7 +11,6 @@ const Bottle = (bottle, handleAddToCart) => {
             <h4>Price: ${price}</h4>
             <h5>Manufecturer: {seller}</h5>
             <button className='btn-bottle-display' onClick={() => handleAddToCart(bottle)}>Add to Cart</button>
-            
         </div>
         
     );
