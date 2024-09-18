@@ -1,0 +1,25 @@
+.bottle-display img{
+    border: 2px solid rebeccapurple;
+    border-radius: 5px;
+    width: 250px;
+    position: relative;
+}
+
+.bottle-display{
+    border: 2px solid rgb(51, 59, 153);
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    background-color: azure;
+    /* width: 400px; */
+}
+
+.btn-bottle-display{
+    background-color: chocolate;
+    /* position: absolute; */
+    width: 100%;
+}
+.btn-bottle-display:hover{
+    background-color: rgb(210, 171, 30);
+}
+
